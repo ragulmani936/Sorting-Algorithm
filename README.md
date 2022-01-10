@@ -70,7 +70,7 @@ print(value)
 ```
 
 ## Output:
-![output](
+![output](https://github.com/ragulmani936/Sorting-Algorithm/blob/main/Screenshot%20(48).png?raw=true)
 ![output](
 
 ## Result:

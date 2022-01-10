@@ -71,7 +71,7 @@ print(value)
 
 ## Output:
 ![output](https://github.com/ragulmani936/Sorting-Algorithm/blob/main/Screenshot%20(48).png?raw=true)
-![output](
+![output](https://github.com/ragulmani936/Sorting-Algorithm/blob/main/Screenshot%20(49).png?raw=true)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.

@@ -70,7 +70,8 @@ print(value)
 ```
 
 ## Output:
-![output](https://github.com/ragulmani936/Sorting-Algorithm/blob/main/Screenshot%20(48).png?raw=true)
+Selection Sort
+![output](https://github.com/ragulmani936/Sorting-Algorithm/blob/main/Screenshot%20(48).png?raw=true)Insertion Sort
 ![output](https://github.com/ragulmani936/Sorting-Algorithm/blob/main/Screenshot%20(49).png?raw=true)
 
 ## Result:
